@@ -6,7 +6,7 @@ INSTALL:
 Make sure you have pip installed on your computer and then run INSTALL.bat and it will install the required modules for the class.
 
 USE:
-To use this module start off by creating a new Microphone like so:
+To use this module start off by creating a new Microphone like so:\n
     #{VariableName} represents your name of the variable
     {VariableName} = Microphone()
     Spoken_Words = {VariableName}.listen()
