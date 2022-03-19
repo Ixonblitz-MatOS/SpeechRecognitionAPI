@@ -3,6 +3,12 @@
 
     
 <html>
+    <style>
+        p{
+        background-color:black;
+        color:white;
+        }
+    </style>
     <h2>Python Speech Recognition import class, Requirements text file, and install batch file</h2><br>
     <h2>This is a fairly simple import.</h2><br>
     <h3>INSTALL:</h3><br>
